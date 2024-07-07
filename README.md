@@ -5,8 +5,6 @@ RESTful API for Haru-Fashion e-commerce web application. Developed with NodeJS, 
 ## Badges
 
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue)
-[![CircleCI](https://circleci.com/gh/loonglim/haru-api/tree/master.svg?style=shield)](https://circleci.com/gh/loonglim/haru-api/tree/master)
-[![Heroku](https://pyheroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat)](https://haru-fashion.herokuapp.com/)
 [![Jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
