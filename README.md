@@ -11,7 +11,7 @@ RESTful API for Haru-Fashion e-commerce web application. Developed with NodeJS, 
 ## Demo
 
 [🚀 API Demo](https://haru-fashion.herokuapp.com/api/v1/categories)  
-
+[📖 API Docs](https://loonglim.github.io/Haru-Fashion-E-Commerce-API-DOCS/)
 ## Features
 
 Here are some of the project's features
