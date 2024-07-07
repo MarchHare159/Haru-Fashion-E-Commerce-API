@@ -5,7 +5,7 @@ RESTful API for Haru-Fashion e-commerce web application. Developed with NodeJS, 
 ## Badges
 
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue)
-[![CircleCI](https://circleci.com/gh/satnaing/haru-api/tree/master.svg?style=shield)](https://circleci.com/gh/loonglim/haru-api/tree/master)
+[![CircleCI](https://circleci.com/gh/loonglim/haru-api/tree/master.svg?style=shield)](https://circleci.com/gh/loonglim/haru-api/tree/master)
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat)](https://haru-fashion.herokuapp.com/)
 [![Jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -13,7 +13,7 @@ RESTful API for Haru-Fashion e-commerce web application. Developed with NodeJS, 
 ## Demo
 
 [🚀 API Demo](https://haru-fashion.herokuapp.com/api/v1/categories)  
-[📖 API Docs](https://loonglim.github.io/haru-api/)
+[📖 API Docs](https://loonglim.github.io/Haru-Fashion-E-Commerce-API/)
 
 ## Features
 
@@ -38,13 +38,13 @@ Here are some of the project's features
 Clone the project
 
 ```bash
-git clone https://github.com/loonglim/haru-api.git
+git clone https://github.com/loonglim/Haru-Fashion-E-Commerce-API.git
 ```
 
 Go to the project directory
 
 ```bash
-cd haru-api
+cd Haru-Fashion-E-Commerce-API
 ```
 
 Remove remote origin
